@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Suresh's website"
+title: "Welcome to Suresh's websits"
 author_profile: true
 redirect_from: 
   - /about/
